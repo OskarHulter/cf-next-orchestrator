@@ -16,7 +16,6 @@ language: en-US,en-GB
 words:
   - arktype
   - commitlint
-  - elsakaan
   - esbenp
   - esbuild
   - ianvs
@@ -32,3 +31,4 @@ words:
   - valibot
   - vitest
   - workerd
+  - Hulter
